@@ -1,1 +1,24 @@
 ceci est le chapitre 4
+Résultats pour Riviéra 6, Abidjan
+ 
+ 
+Utiliser la position exacte
+Aperçu IA
+Un site internet (ou site web)
+est un ensemble de pages web et de ressources (images, vidéos) reliées par des hyperliens, accessible via une adresse URL unique sur Internet. Essentiel pour la visibilité, il permet de présenter une entreprise (vitrine), de vendre (e-commerce) ou de partager du contenu (blog) via des plateformes comme WordPress ou Wix. 
+Les étapes clés pour créer un site internet :
+
+    Définir l'objectif : Blog, site vitrine, ou e-commerce.
+    Choisir un nom de domaine et un hébergeur : L'adresse du site et l'endroit où il est stocké.
+    Sélectionner une plateforme (CMS) : WordPress, Wix, Shopify.
+    Concevoir et créer du contenu : Personnaliser le design et ajouter des textes/images.
+    Optimiser pour le référencement (SEO) : Pour être trouvé sur les moteurs de recherche. 
+
+Types de sites internet courants :
+
+    Site vitrine : Présente une entreprise ou une activité.
+    Site e-commerce : Boutique en ligne pour vendre des produits.
+    Blog / Portfolio : Partage de contenus personnels ou professionnels.
+    Landing page : Page unique conçue pour une action spécifique. 
+
+La création peut se faire via des créateurs de sites "tout-en-un" (comme Wix) ou des CMS plus complexes. 
